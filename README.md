@@ -8,10 +8,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;Actualmente estoy estudiando TSU en Desarrollo de Software Multiplataforma en la Universidad Tecnológica de Cancún.\
-🌱 &nbsp;Estoy aprendiendo más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.\
-✍️ &nbsp;En mi tiempo libre, me gusta diseñar cosas y escribir blogs, es como mi pasatiempo y mi side hustle.\
 ✉️ &nbsp;Puedes escribirme un correo a (hulisesbao@outlook.es). ¡Prometo responder lo más rápido que pueda!\
-📄 &nbsp;Si quieres saber más sobre mí, échale un vistazo a mi [Currículum](https://www.adityavsingh.com/resume.html). Siempre estoy abierto a comentarios y sugerencias. 😄
+📄 &nbsp;Si quieres saber más sobre mí, échale un vistazo a mi [LinkedIn](https://linkedin.com/in/héctor-barreda-567a96307). Siempre estoy abierto a comentarios y sugerencias. 😄
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -30,15 +28,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
