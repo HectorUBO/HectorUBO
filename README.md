@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/078277ed-5380-4deb-b166-997beba79634/dg7sdoi-e1582d71-788e-476d-bbb6-1491dfc7264d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3ODI3N2VkLTUzODAtNGRlYi1iMTY2LTk5N2JlYmE3OTYzNFwvZGc3c2RvaS1lMTU4MmQ3MS03ODhlLTQ3NmQtYmJiNi0xNDkxZGZjNzI2NGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oLnDUwlxAn9Pm6KP67kr6KzCHKUB9RMlIzOSzRS_3mk)
+![Aditya Vikram Singh Banner](https://media.licdn.com/dms/image/v2/D4E16AQHEOb52zrpKnQ/profile-displaybackgroundimage-shrink_350_1400/B4EZT1GBzvHMAY-/0/1739278786526?e=1744848000&v=beta&t=fojeFa2nqcsKVxQ8k3yAlnLgVCeA5bxlK59PSw032gQ)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello World! I'm Héctor</h2>
 <h2>Work in progress... 🚧👷</h2>
