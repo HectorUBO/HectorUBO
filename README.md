@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://media.licdn.com/dms/image/v2/D4E16AQHEOb52zrpKnQ/profile-displaybackgroundimage-shrink_350_1400/B4EZT1GBzvHMAY-/0/1739278786526?e=1744848000&v=beta&t=fojeFa2nqcsKVxQ8k3yAlnLgVCeA5bxlK59PSw032gQ)
+![Hector Barreda Banner](https://media.licdn.com/dms/image/v2/D4E16AQHEOb52zrpKnQ/profile-displaybackgroundimage-shrink_350_1400/B4EZT1GBzvHMAY-/0/1739278786526?e=1744848000&v=beta&t=fojeFa2nqcsKVxQ8k3yAlnLgVCeA5bxlK59PSw032gQ)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello World! I'm Héctor</h2>
 <h2>Work in progress... 🚧👷</h2>
