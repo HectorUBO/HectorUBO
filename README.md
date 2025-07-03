@@ -53,8 +53,8 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=HectorUBO&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorUBO&layout=compact&theme=react" alt="Top Langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HectorUBO&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorUBO&layout=compact&theme=react" alt="Top Langs" />
 </p>
 
 ---
