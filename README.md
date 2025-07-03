@@ -12,40 +12,41 @@
 
 ---
 ### 🛠️ &nbsp;Tech Stack
-
-#### 💻 &nbsp;Frontend
-[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)](#)
-[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](#)
-[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](#)
-[![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)](#)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)](#)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)](#)
-[![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)](#)
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" marginTop="10"/>
 
-#### 🧠 &nbsp;Backend
+#### 💻 &nbsp;Languages & Development
+[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](#)
-[![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)](#)
-[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)](#)
-[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)
 [![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)](#)
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)](#)
+[![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)](#)
+[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)](#)
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)
+[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)](#)
+[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)](#)
 
-#### 🛢️ &nbsp;Databases
+#### 📦 &nbsp;Frameworks & Libraries
+[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](#)
+[![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)](#)
+[![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet)](#)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)](#)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)](#)
+[![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)](#)
+
+#### 🗃️ &nbsp;Database
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)](#)
 [![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)](#)
 
-#### ⚙️ &nbsp;Tools & Platforms
+#### 🛠️ &nbsp;Software & Tools
+[![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)](#)
+[![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)](#)
+[![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)](#)
+[![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)](#)
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)](#)
-[![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)](#)
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)](#)
-[![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)](#)
 [![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)](#)
 
 ---
