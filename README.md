@@ -56,6 +56,7 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorUBO&layout=compact&theme=react" alt="Top Langs" />
 </p>
 
+---
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -69,6 +70,3 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
-
-
-<img src="https://komarev.com/ghpvc/?username=HectorUBO&label=Profile%20views&color=0e75b6&style=flat" alt="Héctor's profile views" />
