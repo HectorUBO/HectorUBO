@@ -28,11 +28,11 @@
 
 #### 📦 &nbsp;Frameworks & Libraries
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](#)
+[![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)](#)
 [![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)](#)
 [![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)](#)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)](#)
-[![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)](#)
 
 #### 🗃️ &nbsp;Database
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](#)
