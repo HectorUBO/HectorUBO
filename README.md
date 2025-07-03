@@ -10,14 +10,6 @@
 📫 &nbsp;Feel free to reach out at [hulisesbao@outlook.es](mailto:hulisesbao@outlook.es). I’ll reply as soon as I can!  
 🔗 &nbsp;More about me on [LinkedIn](https://linkedin.com/in/héctor-barreda-567a96307). I'm always open to feedback and new connections!
 
-### 👨🏻‍💻 &nbsp;Sobre Mí
-
-🎓 &nbsp;Actualmente estudio la carrera de Técnico Superior Universitario en Desarrollo de Software Multiplataforma en la Universidad Tecnológica de Cancún.  
-💡 Me apasiona la programación, la creación de interfaces intuitivas y el aprendizaje constante de nuevas tecnologías.  
-🌍 Idiomas que hablo: Español (nativo), Inglés (nivel B2).  
-📫 Puedes contactarme a través de [hulisesbao@outlook.es](mailto:hulisesbao@outlook.es). ¡Responderé lo antes posible!  
-🔗 También puedes visitar mi [LinkedIn](https://linkedin.com/in/héctor-barreda-567a96307) para saber más sobre mí.
-
 ---
 ### 🛠️ &nbsp;Tech Stack
 
