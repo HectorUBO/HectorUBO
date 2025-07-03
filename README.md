@@ -64,4 +64,19 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorUBO&layout=compact&theme=react" alt="Top Langs" />
 </p>
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/héctor-barreda-567a96307">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/_hector_b_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/hector.barreda.56">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+
 <img src="https://komarev.com/ghpvc/?username=HectorUBO&label=Profile%20views&color=0e75b6&style=flat" alt="Héctor's profile views" />
