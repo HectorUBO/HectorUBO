@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/45b3b0e2-116a-4c9f-b563-a0cd31dedf27)
+![github-header-image (1)](https://github.com/user-attachments/assets/3672428f-00ca-4814-bde1-6551e16fb75a)
 
 <h2><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> Hello World! I'm Héctor</h2>
 
